@@ -1,0 +1,32 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# environment
+/.env
+
+# build output
+/build
+/out
+
+# logs
+/logs
+*.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode
+.idea
+
+# npm
+npm-debug.log*
+
+# yarn
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
